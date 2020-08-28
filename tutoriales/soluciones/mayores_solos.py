@@ -1,1 +1,0 @@
-data[(data.Sex == "male") & (data.Age >= 65) & (data.NumFam == 0)]
