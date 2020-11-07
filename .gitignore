@@ -52,3 +52,5 @@ Temporary Items
 __pycache__/
 !README.md
 *.ipynb_checkpoints/
+
+*copia.ipynb
